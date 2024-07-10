@@ -1,4 +1,5 @@
 Welcome to GitHub Session!!
+<<<<<<< HEAD
 void m(){
 System.out.println("hello developer 1");
 }
